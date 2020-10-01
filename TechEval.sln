@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechEval", "src\TechEval\TechEval.csproj", "{55CB75C6-BE48-4087-9DC8-6267BC58ABB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EE5B98BB-C86B-495F-968D-C2AA61C37416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55CB75C6-BE48-4087-9DC8-6267BC58ABB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CB75C6-BE48-4087-9DC8-6267BC58ABB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CB75C6-BE48-4087-9DC8-6267BC58ABB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CB75C6-BE48-4087-9DC8-6267BC58ABB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55CB75C6-BE48-4087-9DC8-6267BC58ABB0} = {EE5B98BB-C86B-495F-968D-C2AA61C37416}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCD8AF31-BC4E-44C3-A567-B0CC8CB731DA}
+	EndGlobalSection
+EndGlobal
