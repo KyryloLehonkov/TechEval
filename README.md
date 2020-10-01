@@ -12,7 +12,9 @@ To query loaded date use url /api/Transaction .
 You can use OData to get necessary data i.e.:
 
 https://localhost:32784/api/Transaction?$orderby=Amount&$filter=CurrencyCode eq 'USD'
+
 https://localhost:32784/api/Transaction?$orderby=Amount&$filter=TransactionDate gt '2019-02-20' and TransactionDate lt '2020-02-20'
+
 https://localhost:32784/api/Transaction?$filter=Status eq 'A'
 
 ### Unit tests
